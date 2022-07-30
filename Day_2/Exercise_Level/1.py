@@ -1,7 +1,7 @@
 # Day 2:30 Days of python
 
-firt_name = 'Kelvin'
-lasr_name = 'Adamba'
+first_name = 'Kelvin'
+last_name = 'Adamba'
 full_name = 'Kelvin Adamba Odiaga'
 
 country = 'Kenya'
