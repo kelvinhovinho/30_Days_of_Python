@@ -1,15 +1,15 @@
-# age = int(input("Enter your age \n"))
-# remaining = 18 -age
+age = int(input("Enter your age \n"))
+remaining = 18 -age
 
-#sol one
-# print("You are old enough to drive") if remaining >0 else print(f'you need {remaining} years to drive')
+# sol one
+print("You are old enough to drive") if remaining >0 else print(f'you need {remaining} years to drive')
 
-#sol two
-# if age >= 18:
-#     print("You are ols enough to drive")
+# sol two
+if age >= 18:
+    print("You are ols enough to drive")
 
-# else:
-#     print('ypu need', remaining , 'year to learn to drive')
+else:
+    print('ypu need', remaining , 'year to learn to drive')
 
 
 #number 2
